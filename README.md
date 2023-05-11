@@ -10,6 +10,7 @@ Entshuldigung!
 - Python, Mojo, AI, React, TypeScript
 - Maybe: Web…?
 
+
 ## I'm a admin in [AI Creators Society](https://discord.com/invite/ai-jp/)
 
 
