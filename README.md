@@ -1,15 +1,16 @@
-# yank.nvim
-Hello!
+# Kokohachi
+Entshuldigung!
 
 ## Stats
-[![yanknvim GitHub stats](https://github-readme-stats.vercel.app/api?username=yanknvim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kokohachi GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokohachi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanknvim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokohachi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Interested in
-- Low layer, Embedded
-- Python, Rust, Go, And more
+- Python, Mojo, AI, React, TypeScript
 - Maybe: Web…?
+
+## I'm a admin in [AI Creators Society](https://discord.com/invite/ai-jp/)
 
 
 <!--
