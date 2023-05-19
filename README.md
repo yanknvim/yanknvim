@@ -9,6 +9,7 @@ Hello!
 ## Interested in
 - Low layer, Embedded
 - Python, Rust, Go, And more
+- Neovim
 - Maybe: Web…?
 
 ## Belonging
