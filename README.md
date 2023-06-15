@@ -14,7 +14,7 @@ Hello!
 
 ## Belonging
 [Brain Hackers](https://github.com/brain-hackers)
-
+[VRChat.vim](https://github.com/vrchat-vim)
 <!--
 **yanknvim/yanknvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
